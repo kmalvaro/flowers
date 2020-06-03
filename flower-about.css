@@ -1,0 +1,186 @@
+.main {
+    position: relative;
+width: 1440px;
+height: 1870px;
+
+background: white;
+}
+.door {
+    position: absolute;
+width: 402px;
+height: 492px;
+left: 91px;
+top: 251px;
+
+}
+.studio{
+    position: absolute;
+width: 355px;
+height: 417px;
+left: 411px;
+top: 437px;
+;
+
+}
+.who {
+    position: absolute;
+    width: 597px;
+    height: 346px;
+    left: 169px;
+    top: 78px;
+    
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 144px;
+    line-height: 181px;
+    text-align: right;
+    
+    color: #FFB800;
+    
+}
+.welcome {
+    position: absolute;
+width: 196px;
+height: 30px;
+left: 820px;
+top: 206px;
+
+font-family: 'Source Sans Pro', sans-serif;
+font-style: italic;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+
+
+}
+.maintext {
+    position: absolute;
+    width: 339px;
+    height: 400px;
+    left: 820px;
+    top: 278px;
+    
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    
+    color: #000000;
+    
+}
+
+.logo {
+    position: fixed;
+width: 144px;
+height: 79px;
+left: 40px;
+top: 40px;
+
+font-family: 'Source Sans Pro', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 45px;
+
+color: #FFFFFF;
+
+mix-blend-mode: difference;
+}
+.nav{
+    position: absolute;
+width: 115px;
+height: 356px;
+left: 500px;
+top: 104px;
+
+}
+.editorial {
+    position: fixed;
+    width: 120px;
+    height: 45px;
+    left: 1350px;
+    top: 169px;
+    
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+    
+    color: #FFFFFF;
+    
+    mix-blend-mode: difference;
+}
+
+.events {
+    position: fixed;
+    width: 120px;
+    height: 45px;
+    left: 1350px;
+    top: 87px;
+    
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+    
+    color: #FFFFFF;
+    
+    mix-blend-mode: difference;
+}
+.about {
+    position: fixed;
+    width: 120px;
+    height: 45px;
+    left: 1350px;
+    top: 251px;
+    
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+    
+    color: #FFFFFF;
+    
+    mix-blend-mode: difference;
+}
+.contact{
+    position: fixed;
+    width: 120px;
+    height: 45px;
+    left: 1350px;
+    top: 333px;
+    
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+    
+    color: #FFFFFF;
+    
+    mix-blend-mode: difference;
+}
+.home{
+    position: fixed;
+    width: 120px;
+    height: 45px;
+    left: 1355px;
+    top: 415px;
+    
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+    
+    color: #FFFFFF;
+    
+    mix-blend-mode: difference;
+}
